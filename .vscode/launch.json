@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiCadastroClientesImobiliariaApplication<api-cadastro-clientes-imobiliaria>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/api-cadastro-clientes-imobiliaria",
+            "mainClass": "com.asgtech.api_cadastro_clientes_imobiliaria.ApiCadastroClientesImobiliariaApplication",
+            "projectName": "api-cadastro-clientes-imobiliaria",
+            "args": ""
+        }
+    ]
+}
